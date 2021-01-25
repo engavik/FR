@@ -85,7 +85,6 @@ shinyApp(ui = ui, server = server)
 
 
 
-#rsconnect::setAccountInfo(name='avikshit', token='6C9CC71B6E36BD3593D08F56CE65E5A4', secret='BqtxZndhd22QBpM6Uv1q3rKSXhse3cFdrh0/iKYm')
 #rsconnect::deployApp('C:/Users/avikk/Documents/ShinyD')
 #deployApp()
 
